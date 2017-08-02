@@ -1,7 +1,3 @@
-# ls
-
-> Make the change
-
 ## Build Setup
 
 ``` bash
